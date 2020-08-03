@@ -16,8 +16,8 @@
 
 ## 수학
 - [간단한 N의 약수](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PhcWaAKIDFAUq)
-- [간단한 소인수 분해](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Pl0Q6ANQDFAUq)
 - [서랍의 비밀번호](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QJ_8KAx8DFAUq)
+- [간단한 소인수 분해](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Pl0Q6ANQDFAUq)
 
 ## 순열
 - [규영이와 인영이의 카드게임](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWgv9va6HnkDFAW0)
@@ -28,13 +28,22 @@
 ## 정렬
 - [Flatten](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV139KOaABgCFAYh)
 
+## 조합
+
+- [한빈이와 Spot Mart](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AW8Wj7cqbY0DFAXN)
+
+## 트리
+
+- [사칙연산 유효성 검사](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV141176AIwCFAYD)
+
 ## 큐
+
 - [암호생성기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14uWl6AF0CFAYD)
 
 ## ETC
+- [퍼펙트 셔플](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWGsRbk6AQIDFAVW)
 - [지그재그 숫자](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PxmBqAe8DFAUq)
 - [원재의 메모리 복구하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV19AcoKI9sCFAZN)
-- [퍼펙트 셔플](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWGsRbk6AQIDFAVW)
 
 ## Reference
 - 문제의 모든 저작권은 [SW Expert Academy](https://swexpertacademy.com/main/main.do) 에 있습니다.

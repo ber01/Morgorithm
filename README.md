@@ -1,4 +1,4 @@
-# SW-Expert-Academy
+# Morgorithm
 문제를 열심히 풀자
 
 ## 배열
@@ -9,18 +9,24 @@
 - [정사각형 방](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LtJYKDzsDFAXc)
 - [농작물 수확하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7GLXqKAWYDFAXB)
 
-## 스택
-- [계산기2](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14nnAaAFACFAYD)
-- [계산기3](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14tDX6AFgCFAYD)
-- [괄호 짝짓기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14eWb6AAkCFAYD)
+## 소수
+
+- [소수&팰린드롬](https://www.acmicpc.net/problem/1747)
 
 ## 수학
+
 - [간단한 N의 약수](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PhcWaAKIDFAUq)
 - [서랍의 비밀번호](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QJ_8KAx8DFAUq)
 - [간단한 소인수 분해](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Pl0Q6ANQDFAUq)
 
 ## 순열
+
 - [규영이와 인영이의 카드게임](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWgv9va6HnkDFAW0)
+
+## 스택
+- [계산기2](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14nnAaAFACFAYD)
+- [계산기3](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14tDX6AFgCFAYD)
+- [괄호 짝짓기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14eWb6AAkCFAYD)
 
 ## 시뮬레이션
 - [상호의 배틀필드](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LyE7KD2ADFAXc)
@@ -42,7 +48,13 @@
 
 ## BFS & DFS
 
+- [토마토](https://www.acmicpc.net/problem/7576)
+- [키 순서](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXQsLWKd5cDFAUo&)
 - [Contact](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15B1cKAKwCFAYD)
+- [바이러스](https://www.acmicpc.net/problem/2606)
+- [숨바꼭질](https://www.acmicpc.net/problem/1697)
+- [숨바꼭질2](https://www.acmicpc.net/problem/12851)
+- [DFS와 BFS](https://www.acmicpc.net/problem/1260)
 
 ## ETC
 - [퍼펙트 셔플](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWGsRbk6AQIDFAVW)
@@ -50,4 +62,5 @@
 - [원재의 메모리 복구하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV19AcoKI9sCFAZN)
 
 ## Reference
-- 문제의 모든 저작권은 [SW Expert Academy](https://swexpertacademy.com/main/main.do) 에 있습니다.
+- 문제의 모든 저작권은 [SW Expert Academy](https://swexpertacademy.com/main/main.do) 와 [Baekjoon-Online-Judge](https://www.acmicpc.net/) 에 있습니다.
+

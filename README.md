@@ -15,6 +15,7 @@
 
 ## 수학
 
+- [더하기 사이클](https://www.acmicpc.net/problem/1110)
 - [간단한 N의 약수](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PhcWaAKIDFAUq)
 - [서랍의 비밀번호](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QJ_8KAx8DFAUq)
 - [간단한 소인수 분해](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Pl0Q6ANQDFAUq)
@@ -52,13 +53,16 @@
 - [키 순서](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXQsLWKd5cDFAUo&)
 - [Contact](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15B1cKAKwCFAYD)
 - [바이러스](https://www.acmicpc.net/problem/2606)
+- [섬의갯수](https://www.acmicpc.net/problem/4963)
 - [숨바꼭질](https://www.acmicpc.net/problem/1697)
 - [숨바꼭질2](https://www.acmicpc.net/problem/12851)
 - [DFS와 BFS](https://www.acmicpc.net/problem/1260)
+- [단지번호 붙이기](https://www.acmicpc.net/problem/2667)
 
 ## ETC
 - [퍼펙트 셔플](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWGsRbk6AQIDFAVW)
 - [지그재그 숫자](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PxmBqAe8DFAUq)
+- [누울 자리를 찾아라](https://www.acmicpc.net/problem/1652)
 - [원재의 메모리 복구하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV19AcoKI9sCFAZN)
 
 ## Reference

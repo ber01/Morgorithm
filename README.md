@@ -1,6 +1,9 @@
 # Morgorithm
 문제를 열심히 풀자
 
+## 그리디
+- [회의실배정](https://www.acmicpc.net/problem/1931)
+
 ## 배열
 - [Ladder1](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14ABYKADACFAYh)
 - [Ladder2](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14BgD6AEECFAYh)
@@ -10,18 +13,15 @@
 - [농작물 수확하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7GLXqKAWYDFAXB)
 
 ## 소수
-
 - [소수&팰린드롬](https://www.acmicpc.net/problem/1747)
 
 ## 수학
-
 - [더하기 사이클](https://www.acmicpc.net/problem/1110)
 - [간단한 N의 약수](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PhcWaAKIDFAUq)
 - [서랍의 비밀번호](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QJ_8KAx8DFAUq)
 - [간단한 소인수 분해](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Pl0Q6ANQDFAUq)
 
 ## 순열
-
 - [규영이와 인영이의 카드게임](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWgv9va6HnkDFAW0)
 
 ## 스택
@@ -36,19 +36,21 @@
 - [Flatten](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV139KOaABgCFAYh)
 
 ## 조합
-
 - [한빈이와 Spot Mart](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AW8Wj7cqbY0DFAXN)
+- [도영이가 만든 맛있는 음식](https://www.acmicpc.net/problem/2961)
+
+## 최소 신장 트리
+- [서로소 집합](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWBJKA6qr2oDFAWr)
+- [네트워크 연결](https://www.acmicpc.net/problem/1922)
+- [최소 스패닝 트리](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV_mSnmKUckDFAWb)
 
 ## 트리
-
 - [사칙연산 유효성 검사](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV141176AIwCFAYD)
 
 ## 큐
-
 - [암호생성기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14uWl6AF0CFAYD)
 
 ## BFS & DFS
-
 - [토마토](https://www.acmicpc.net/problem/7576)
 - [키 순서](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXQsLWKd5cDFAUo&)
 - [Contact](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15B1cKAKwCFAYD)

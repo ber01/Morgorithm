@@ -61,6 +61,7 @@
 - [DFS와 BFS](https://www.acmicpc.net/problem/1260)
 - [단지번호 붙이기](https://www.acmicpc.net/problem/2667)
 - [행렬찾기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18LoAqItcCFAZN)
+- [치즈도둑](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWrDOdQqRCUDFARG)
 - [Best Grass](https://www.acmicpc.net/problem/6186)
 - [촌수계산](https://www.acmicpc.net/problem/2644)
 - [안전 영역](https://www.acmicpc.net/problem/2468)

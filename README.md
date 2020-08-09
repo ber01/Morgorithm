@@ -21,8 +21,22 @@
 - [서랍의 비밀번호](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QJ_8KAx8DFAUq)
 - [간단한 소인수 분해](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Pl0Q6ANQDFAUq)
 
-## 순열
+## 순열 & 조합
 - [규영이와 인영이의 카드게임](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWgv9va6HnkDFAW0)
+- [한빈이와 Spot Mart](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AW8Wj7cqbY0DFAXN)
+- [도영이가 만든 맛있는 음식](https://www.acmicpc.net/problem/2961)
+- [N과 M (1)](https://www.acmicpc.net/problem/15649)
+- [N과 M (2)](https://www.acmicpc.net/problem/15650)
+- [N과 M (3)](https://www.acmicpc.net/problem/15651)
+- [N과 M (4)](https://www.acmicpc.net/problem/15652)
+- [N과 M (5)](https://www.acmicpc.net/problem/15654)
+- [N과 M (6)](https://www.acmicpc.net/problem/15655)
+- [N과 M (7)](https://www.acmicpc.net/problem/15656)
+- [N과 M (8)](https://www.acmicpc.net/problem/15657)
+- [N과 M (9)](https://www.acmicpc.net/problem/15663)
+- [N과 M (10)](https://www.acmicpc.net/problem/15664)
+- [N과 M (11)](https://www.acmicpc.net/problem/15665)
+- [N과 M (12)](https://www.acmicpc.net/problem/15666)
 
 ## 스택
 - [계산기2](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14nnAaAFACFAYD)
@@ -30,14 +44,11 @@
 - [괄호 짝짓기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14eWb6AAkCFAYD)
 
 ## 시뮬레이션
+- [캐슬 디펜스](https://www.acmicpc.net/problem/17135)
 - [상호의 배틀필드](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LyE7KD2ADFAXc)
 
 ## 정렬
 - [Flatten](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV139KOaABgCFAYh)
-
-## 조합
-- [한빈이와 Spot Mart](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AW8Wj7cqbY0DFAXN)
-- [도영이가 만든 맛있는 음식](https://www.acmicpc.net/problem/2961)
 
 ## 최소 신장 트리
 - [서로소 집합](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWBJKA6qr2oDFAWr)
@@ -72,6 +83,9 @@
 - [Emacs](https://www.acmicpc.net/problem/18422)
 - [유기농 배추](https://www.acmicpc.net/problem/1012)
 - [미로 탐색](https://www.acmicpc.net/problem/2178)
+- [양](https://www.acmicpc.net/problem/3184)
+- [양치기 꿍](https://www.acmicpc.net/problem/3187)
+- [나이트의 이동](https://www.acmicpc.net/problem/7562)
 
 ## ETC
 - [퍼펙트 셔플](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWGsRbk6AQIDFAVW)

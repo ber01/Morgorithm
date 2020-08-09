@@ -48,7 +48,8 @@ public class B2468 {
             for (int i = 0; i < N; i++) {
                 for (int j = 0; j < N; j++) {
                     if (map[i][j] != 0 && map[i][j] != -1) {
-                        bfs(map, i, j);
+                        dfs(map, i, j);
+                        // bfs(map, i, j);
                         cnt++;
                     }
                 }
@@ -59,6 +60,18 @@ public class B2468 {
 
         bw.write(String.valueOf(max));
         bw.flush();
+    }
+
+    private static void dfs(int[][] map, int ci, int cj) {
+        int N = map.length;
+        map[ci][cj] = -1;
+
+        for (int d = 0; d < 4; d++) {
+            int ni = ci + di[d];
+            int nj = cj + dj[d];
+            if (ni >= N || ni < 0 || nj >= N || nj < 0 || map[ni][nj] == 0 || map[ni][nj] == -1) continue;
+            dfs(map, ni, nj);
+        }
     }
 
     private static void bfs(int[][] map, int i, int j) {

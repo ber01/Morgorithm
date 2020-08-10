@@ -37,6 +37,7 @@
 - [N과 M (10)](https://www.acmicpc.net/problem/15664)
 - [N과 M (11)](https://www.acmicpc.net/problem/15665)
 - [N과 M (12)](https://www.acmicpc.net/problem/15666)
+- [암호 만들기](https://www.acmicpc.net/problem/1759)
 
 ## 스택
 - [계산기2](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14nnAaAFACFAYD)
@@ -86,6 +87,10 @@
 - [양](https://www.acmicpc.net/problem/3184)
 - [양치기 꿍](https://www.acmicpc.net/problem/3187)
 - [나이트의 이동](https://www.acmicpc.net/problem/7562)
+
+## 구현
+
+- [창영이의 일기장](https://www.acmicpc.net/problem/2954)
 
 ## ETC
 - [퍼펙트 셔플](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWGsRbk6AQIDFAVW)

@@ -2,7 +2,12 @@
 문제를 열심히 풀자
 
 ## 그리디
+
 - [회의실배정](https://www.acmicpc.net/problem/1931)
+
+## 다익스트라
+
+- [알고스팟](https://www.acmicpc.net/problem/1261)
 
 ## 배열
 - [Ladder1](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14ABYKADACFAYh)

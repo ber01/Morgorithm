@@ -95,6 +95,7 @@
 - [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352)
 - [그대, 그머가 되어](https://www.acmicpc.net/problem/14496)
 - [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
+- [말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600)
 
 ## 구현
 

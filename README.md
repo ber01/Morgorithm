@@ -8,6 +8,7 @@
 ## 다익스트라
 
 - [알고스팟](https://www.acmicpc.net/problem/1261)
+- [숨바꼭질3](https://www.acmicpc.net/problem/13549)
 
 ## 배열
 - [Ladder1](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14ABYKADACFAYh)
@@ -96,6 +97,7 @@
 - [그대, 그머가 되어](https://www.acmicpc.net/problem/14496)
 - [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
 - [말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600)
+- [숨바꼭질4](https://www.acmicpc.net/problem/13913)
 
 ## 구현
 

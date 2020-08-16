@@ -4,6 +4,7 @@
 ## 그리디
 
 - [회의실배정](https://www.acmicpc.net/problem/1931)
+- [ATM](https://www.acmicpc.net/problem/11399)
 
 ## 다익스트라
 

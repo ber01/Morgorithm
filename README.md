@@ -99,6 +99,7 @@
 - [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
 - [말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600)
 - [숨바꼭질4](https://www.acmicpc.net/problem/13913)
+- [치즈](https://www.acmicpc.net/problem/2636)
 
 ## 구현
 

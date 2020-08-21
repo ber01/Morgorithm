@@ -102,6 +102,7 @@
 - [치즈](https://www.acmicpc.net/problem/2636)
 - [파이프 옮기기 1](https://www.acmicpc.net/problem/17070)
 - [스타트링크](https://www.acmicpc.net/problem/5014)
+- [탈출](https://www.acmicpc.net/problem/3055)
 
 ## 구현
 

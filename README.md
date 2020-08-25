@@ -8,12 +8,12 @@
 
 ## 다이나믹 프로그래밍
 
-- [파이프 옮기기2](https://www.acmicpc.net/problem/17069)
+- [파이프 옮기기2](https://www.acmicpc.net/problem/17069) - re
 
 ## 다익스트라
 
-- [알고스팟](https://www.acmicpc.net/problem/1261)
-- [숨바꼭질3](https://www.acmicpc.net/problem/13549)
+- [알고스팟](https://www.acmicpc.net/problem/1261) - re
+- [숨바꼭질3](https://www.acmicpc.net/problem/13549) - re
 
 ## 배열
 - [Ladder1](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14ABYKADACFAYh)
@@ -23,7 +23,12 @@
 - [정사각형 방](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LtJYKDzsDFAXc)
 - [농작물 수확하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7GLXqKAWYDFAXB)
 
+## 브루트 포스
+
+- [치킨배달](https://www.acmicpc.net/problem/15686) - re
+
 ## 소수
+
 - [소수&팰린드롬](https://www.acmicpc.net/problem/1747)
 
 ## 수학

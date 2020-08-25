@@ -6,6 +6,10 @@
 - [회의실배정](https://www.acmicpc.net/problem/1931)
 - [ATM](https://www.acmicpc.net/problem/11399)
 
+## 다이나믹 프로그래밍
+
+- [파이프 옮기기2](https://www.acmicpc.net/problem/17069)
+
 ## 다익스트라
 
 - [알고스팟](https://www.acmicpc.net/problem/1261)

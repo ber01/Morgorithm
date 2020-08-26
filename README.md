@@ -26,6 +26,7 @@
 ## 브루트 포스
 
 - [치킨배달](https://www.acmicpc.net/problem/15686) - re
+- [괄호 추가하기](https://www.acmicpc.net/problem/16637)
 
 ## 소수
 

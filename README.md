@@ -27,6 +27,7 @@
 
 - [치킨배달](https://www.acmicpc.net/problem/15686) - re
 - [괄호 추가하기](https://www.acmicpc.net/problem/16637)
+- [괄호 추가하기 2](https://www.acmicpc.net/problem/16638)
 
 ## 소수
 

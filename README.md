@@ -23,11 +23,16 @@
 - [정사각형 방](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LtJYKDzsDFAXc)
 - [농작물 수확하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7GLXqKAWYDFAXB)
 
+## 백트래킹
+
+- [빵집](https://www.acmicpc.net/problem/3109) - re
+
 ## 브루트 포스
 
 - [치킨배달](https://www.acmicpc.net/problem/15686) - re
 - [괄호 추가하기](https://www.acmicpc.net/problem/16637)
 - [괄호 추가하기 2](https://www.acmicpc.net/problem/16638)
+- [오목](https://www.acmicpc.net/problem/2615)
 
 ## 소수
 
@@ -56,6 +61,7 @@
 - [N과 M (11)](https://www.acmicpc.net/problem/15665)
 - [N과 M (12)](https://www.acmicpc.net/problem/15666)
 - [암호 만들기](https://www.acmicpc.net/problem/1759)
+- [최적 경로](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15OZ4qAPICFAYD)
 
 ## 스택
 - [계산기2](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14nnAaAFACFAYD)
@@ -65,6 +71,11 @@
 ## 시뮬레이션
 - [캐슬 디펜스](https://www.acmicpc.net/problem/17135)
 - [상호의 배틀필드](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LyE7KD2ADFAXc)
+
+## 이분 탐색
+
+- [숫자 카드](https://www.acmicpc.net/problem/10815)
+- [숫자 카드 2](https://www.acmicpc.net/problem/10816)
 
 ## 정렬
 - [Flatten](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV139KOaABgCFAYh)
@@ -107,7 +118,7 @@
 - [나이트의 이동](https://www.acmicpc.net/problem/7562)
 - [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352)
 - [그대, 그머가 되어](https://www.acmicpc.net/problem/14496)
-- [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
+- [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) - re
 - [말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600)
 - [숨바꼭질4](https://www.acmicpc.net/problem/13913)
 - [치즈](https://www.acmicpc.net/problem/2636)

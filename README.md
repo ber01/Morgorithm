@@ -32,7 +32,6 @@
 - [치킨배달](https://www.acmicpc.net/problem/15686) - re
 - [괄호 추가하기](https://www.acmicpc.net/problem/16637)
 - [괄호 추가하기 2](https://www.acmicpc.net/problem/16638)
-- [오목](https://www.acmicpc.net/problem/2615)
 
 ## 소수
 
@@ -62,6 +61,7 @@
 - [N과 M (12)](https://www.acmicpc.net/problem/15666)
 - [암호 만들기](https://www.acmicpc.net/problem/1759)
 - [최적 경로](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15OZ4qAPICFAYD)
+- [요리사](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeUtVakTMDFAVH&)
 
 ## 스택
 - [계산기2](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14nnAaAFACFAYD)

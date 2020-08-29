@@ -1,6 +1,14 @@
 # Morgorithm
 문제를 열심히 풀자
 
+## 구현
+
+- [창영이의 일기장](https://www.acmicpc.net/problem/2954)
+- [퍼펙트 셔플](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWGsRbk6AQIDFAVW)
+- [지그재그 숫자](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PxmBqAe8DFAUq)
+- [누울 자리를 찾아라](https://www.acmicpc.net/problem/1652)
+- [원재의 메모리 복구하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV19AcoKI9sCFAZN)
+
 ## 그리디
 
 - [회의실배정](https://www.acmicpc.net/problem/1931)
@@ -22,6 +30,10 @@
 - [달팽이 숫자](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PobmqAPoDFAUq)
 - [정사각형 방](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LtJYKDzsDFAXc)
 - [농작물 수확하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7GLXqKAWYDFAXB)
+
+## 분할 정복
+
+- [종이의 개수](https://www.acmicpc.net/problem/1780) - re
 
 ## 백트래킹
 
@@ -79,11 +91,16 @@
 
 ## 정렬
 - [Flatten](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV139KOaABgCFAYh)
+- [배열 합치기](https://www.acmicpc.net/problem/11728)
 
 ## 최소 신장 트리
 - [서로소 집합](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWBJKA6qr2oDFAWr)
 - [네트워크 연결](https://www.acmicpc.net/problem/1922)
 - [최소 스패닝 트리](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV_mSnmKUckDFAWb)
+
+## 투 포인터
+
+- [회전 초밥](https://www.acmicpc.net/problem/15961) - re
 
 ## 트리
 - [사칙연산 유효성 검사](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV141176AIwCFAYD)
@@ -125,16 +142,6 @@
 - [파이프 옮기기 1](https://www.acmicpc.net/problem/17070)
 - [스타트링크](https://www.acmicpc.net/problem/5014)
 - [탈출](https://www.acmicpc.net/problem/3055)
-
-## 구현
-
-- [창영이의 일기장](https://www.acmicpc.net/problem/2954)
-
-## ETC
-- [퍼펙트 셔플](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWGsRbk6AQIDFAVW)
-- [지그재그 숫자](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PxmBqAe8DFAUq)
-- [누울 자리를 찾아라](https://www.acmicpc.net/problem/1652)
-- [원재의 메모리 복구하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV19AcoKI9sCFAZN)
 
 ## Reference
 - 문제의 모든 저작권은 [SW Expert Academy](https://swexpertacademy.com/main/main.do) 와 [Baekjoon-Online-Judge](https://www.acmicpc.net/) 에 있습니다.

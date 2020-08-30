@@ -34,6 +34,8 @@
 ## 분할 정복
 
 - [종이의 개수](https://www.acmicpc.net/problem/1780) - re
+- [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) - re
+- 
 
 ## 백트래킹
 

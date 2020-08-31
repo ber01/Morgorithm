@@ -35,7 +35,6 @@
 
 - [종이의 개수](https://www.acmicpc.net/problem/1780) - re
 - [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) - re
-- 
 
 ## 백트래킹
 
@@ -46,6 +45,8 @@
 - [치킨배달](https://www.acmicpc.net/problem/15686) - re
 - [괄호 추가하기](https://www.acmicpc.net/problem/16637)
 - [괄호 추가하기 2](https://www.acmicpc.net/problem/16638)
+- [점프 점프](https://www.acmicpc.net/problem/18512)
+- [멀티버스 Ⅰ](https://www.acmicpc.net/problem/18868)
 
 ## 소수
 
@@ -144,6 +145,7 @@
 - [파이프 옮기기 1](https://www.acmicpc.net/problem/17070)
 - [스타트링크](https://www.acmicpc.net/problem/5014)
 - [탈출](https://www.acmicpc.net/problem/3055)
+- [샘터](https://www.acmicpc.net/problem/18513) - re
 
 ## Reference
 - 문제의 모든 저작권은 [SW Expert Academy](https://swexpertacademy.com/main/main.do) 와 [Baekjoon-Online-Judge](https://www.acmicpc.net/) 에 있습니다.

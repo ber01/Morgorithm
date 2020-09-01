@@ -23,6 +23,8 @@
 - [알고스팟](https://www.acmicpc.net/problem/1261) - re
 - [숨바꼭질3](https://www.acmicpc.net/problem/13549) - re
 - [최단경로](https://www.acmicpc.net/problem/1753) - re
+- [최소비용 구하기](https://www.acmicpc.net/problem/1916)
+- 
 
 ## 배열
 - [Ladder1](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14ABYKADACFAYh)

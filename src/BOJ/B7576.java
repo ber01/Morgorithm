@@ -7,65 +7,75 @@ import java.util.StringTokenizer;
 
 public class B7576 {
 
-    public static void main(String[] args) throws IOException {
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
-        StringTokenizer st = new StringTokenizer(br.readLine().trim());
-        int N = Integer.parseInt(st.nextToken());
-        int M = Integer.parseInt(st.nextToken());
-        int[][] arr = new int[M][N];
-        Queue<Point> queue = new LinkedList<>();
-        for (int i = 0; i < M; i++) {
-            st = new StringTokenizer(br.readLine().trim());
-            for (int j = 0; st.hasMoreTokens(); j++) {
-                arr[i][j] = Integer.parseInt(st.nextToken());
-                if (arr[i][j] == 1) {
-                    queue.offer(new Point(i, j));
-                }
-            }
-        }
-
-        int[] di = {-1, 1, 0, 0};
-        int[] dj = {0, 0, -1, 1};
-        int max = 0;
-        while (!queue.isEmpty()) {
-            Point p = queue.poll();
-            int nowi = p.i;
-            int nowj = p.j;
-
-            for (int d = 0; d < 4; d++) {
-                int ni = nowi + di[d];
-                int nj = nowj + dj[d];
-                if (ni >= M || ni < 0 || nj >= N || nj < 0 || arr[ni][nj] != 0) continue;
-                arr[ni][nj] = arr[nowi][nowj] + 1;
-                max = Math.max(max, arr[ni][nj]);
-                queue.offer(new Point(ni, nj));
-            }
-        }
-
-        for (int i = 0; i < M; i++) {
-            for (int j = 0; j < N; j++) {
-                if (arr[i][j] == 0) {
-                    max = -1;
-                    break;
-                }
-            }
-        }
-
-        max = max == 0 ? 0 : max == -1 ? -1 : max - 1;
-
-        bw.write(max + "");
-        bw.flush();
-    }
-
-    private static class Point {
-        int i;
-        int j;
+    static class Point {
+        int i, j;
 
         public Point(int i, int j) {
             this.i = i;
             this.j = j;
         }
+    }
+    static int M, N;
+    static int[][] map;
+    static int[][] dist;
+    static int[] di = {-1, 1, 0, 0};
+    static int[] dj = {0, 0, -1, 1};
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
+
+        StringTokenizer st = new StringTokenizer(br.readLine().trim());
+        M = Integer.parseInt(st.nextToken());
+        N = Integer.parseInt(st.nextToken());
+        map = new int[N][M];
+        dist = new int[N][M];
+
+        Queue<Point> queue = new LinkedList<>();
+        for (int i = 0; i < N; i++) {
+            st = new StringTokenizer(br.readLine().trim());
+            for (int j = 0; j < M; j++) {
+                map[i][j] = Integer.parseInt(st.nextToken());
+                if (map[i][j] == 1) queue.offer(new Point(i, j));
+            }
+        }
+
+        int ret = bfs(queue);
+        ret = isValid() ? ret : -1;
+
+        bw.write(String.valueOf(ret));
+        bw.flush();
+    }
+
+    private static boolean isValid() {
+        for (int i = 0; i < N; i++) {
+            for (int j = 0; j < M; j++) {
+                if (map[i][j] == 0) return false;
+            }
+        }
+        return true;
+    }
+
+    private static int bfs(Queue<Point> queue) {
+        int ans = 0;
+        while (!queue.isEmpty()) {
+            int size = queue.size();
+            while (size-- > 0) {
+                Point cur = queue.poll();
+                int ci = cur.i;
+                int cj = cur.j;
+                for (int d = 0; d < 4; d++) {
+                    int ni = ci + di[d];
+                    int nj = cj + dj[d];
+                    if (ni >= N || ni < 0 || nj >= M || nj < 0 || map[ni][nj] == -1 || map[ni][nj] == 1) continue;
+                    map[ni][nj] = 1;
+                    dist[ni][nj] = dist[ci][cj] + 1;
+                    ans = dist[ni][nj];
+                    queue.offer(new Point(ni, nj));
+                }
+            }
+        }
+
+        return ans;
     }
 
 }

@@ -50,6 +50,7 @@
 - [괄호 추가하기 2](https://www.acmicpc.net/problem/16638)
 - [점프 점프](https://www.acmicpc.net/problem/18512)
 - [멀티버스 Ⅰ](https://www.acmicpc.net/problem/18868)
+- [게리맨더링](https://www.acmicpc.net/problem/17471)
 
 ## 소수
 

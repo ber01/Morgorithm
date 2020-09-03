@@ -153,6 +153,7 @@
 - [탈출](https://www.acmicpc.net/problem/3055)
 - [샘터](https://www.acmicpc.net/problem/18513) - re
 - [토마토](https://www.acmicpc.net/problem/7569)
+- [Puyo Puyo](https://www.acmicpc.net/problem/11559) - re
 
 ## Reference
 - 문제의 모든 저작권은 [SW Expert Academy](https://swexpertacademy.com/main/main.do) 와 [Baekjoon-Online-Judge](https://www.acmicpc.net/) 에 있습니다.

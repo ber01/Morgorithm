@@ -158,6 +158,9 @@
 - [Puyo Puyo](https://www.acmicpc.net/problem/11559) - re
 - [아기 상어](https://www.acmicpc.net/problem/16236)
 - [빙산](https://www.acmicpc.net/problem/2573)
+- [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)
+- [데스 나이트](https://www.acmicpc.net/problem/16948)
+- [DSLR](https://www.acmicpc.net/problem/9019)
 
 ## Reference
 

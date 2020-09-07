@@ -1,11 +1,11 @@
-package Expert;
+package BOJ;
 
 import java.io.*;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class No6186 {
+public class B6186 {
 
     public static class Point {
         public int i;

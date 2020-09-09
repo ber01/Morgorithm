@@ -108,6 +108,7 @@
 - [최소 스패닝 트리](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV_mSnmKUckDFAWb)
 - [하나로](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15StKqAQkCFAYD&)
 - [도시 분할 계획](https://www.acmicpc.net/problem/1647)
+- [다리 만들기2](https://www.acmicpc.net/problem/17472) - re
 
 ## 투 포인터
 

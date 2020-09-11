@@ -92,6 +92,7 @@
 ## 시뮬레이션
 - [캐슬 디펜스](https://www.acmicpc.net/problem/17135)
 - [상호의 배틀필드](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LyE7KD2ADFAXc)
+- [미생물 격리](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV597vbqAH0DFAVl)
 
 ## 이분 탐색
 
@@ -147,7 +148,7 @@
 - [나이트의 이동](https://www.acmicpc.net/problem/7562)
 - [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352)
 - [그대, 그머가 되어](https://www.acmicpc.net/problem/14496)
-- [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) - re
+- [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) 
 - [말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600)
 - [숨바꼭질4](https://www.acmicpc.net/problem/13913)
 - [치즈](https://www.acmicpc.net/problem/2636)

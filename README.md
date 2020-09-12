@@ -163,6 +163,7 @@
 - [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928)
 - [데스 나이트](https://www.acmicpc.net/problem/16948)
 - [DSLR](https://www.acmicpc.net/problem/9019)
+- [벽 부수고 이동하기 2](https://www.acmicpc.net/problem/14442)
 
 ## Reference
 

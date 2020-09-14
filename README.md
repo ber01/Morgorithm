@@ -167,6 +167,7 @@
 - [벽 부수고 이동하기 2](https://www.acmicpc.net/problem/14442)
 - [벽 부수고 이동하기 3](https://www.acmicpc.net/problem/16933)
 - [연결](https://www.acmicpc.net/problem/5022)
+- [움직이는 미로 탈출](https://www.acmicpc.net/problem/16954) - re
 
 ## Reference
 

@@ -8,13 +8,16 @@
 - [지그재그 숫자](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PxmBqAe8DFAUq)
 - [누울 자리를 찾아라](https://www.acmicpc.net/problem/1652)
 - [원재의 메모리 복구하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV19AcoKI9sCFAZN)
+- [줄 세우기](https://www.acmicpc.net/problem/2605)
+- [빙고](https://www.acmicpc.net/problem/2578)
+- [색종이](https://www.acmicpc.net/problem/2563)
+- 
 
 ## 그리디
 
 - [회의실배정](https://www.acmicpc.net/problem/1931)
 - [ATM](https://www.acmicpc.net/problem/11399)
 - [동전 0](https://www.acmicpc.net/problem/11047)
-- 
 
 ## 다이나믹 프로그래밍
 
@@ -55,6 +58,7 @@
 - [점프 점프](https://www.acmicpc.net/problem/18512)
 - [멀티버스 Ⅰ](https://www.acmicpc.net/problem/18868)
 - [게리맨더링](https://www.acmicpc.net/problem/17471)
+- [일곱 난쟁이](https://www.acmicpc.net/problem/2309)
 
 ## 소수
 

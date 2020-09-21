@@ -11,7 +11,7 @@
 - [줄 세우기](https://www.acmicpc.net/problem/2605)
 - [빙고](https://www.acmicpc.net/problem/2578)
 - [색종이](https://www.acmicpc.net/problem/2563)
-- 
+- [경비원](https://www.acmicpc.net/problem/2564)
 
 ## 그리디
 

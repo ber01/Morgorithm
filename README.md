@@ -12,6 +12,9 @@
 - [빙고](https://www.acmicpc.net/problem/2578)
 - [색종이](https://www.acmicpc.net/problem/2563)
 - [경비원](https://www.acmicpc.net/problem/2564)
+- [참외밭](https://www.acmicpc.net/problem/2477)
+- [자리배정](https://www.acmicpc.net/problem/10157)
+- [달팽이2](https://www.acmicpc.net/problem/1952)
 
 ## 그리디
 

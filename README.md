@@ -27,6 +27,8 @@
 - [파이프 옮기기2](https://www.acmicpc.net/problem/17069) - re
 - [피보나치수 5](https://www.acmicpc.net/problem/10870)
 - [1로 만들기](https://www.acmicpc.net/problem/1463)
+- [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)
+- [최장 증가 부분 수열](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWBOKg-a6l0DFAWr)
 
 ## 다익스트라
 

@@ -15,6 +15,7 @@
 - [참외밭](https://www.acmicpc.net/problem/2477)
 - [자리배정](https://www.acmicpc.net/problem/10157)
 - [달팽이2](https://www.acmicpc.net/problem/1952)
+- [벌집](https://www.acmicpc.net/problem/2292)
 
 ## 그리디
 
@@ -183,6 +184,7 @@
 - [움직이는 미로 탈출](https://www.acmicpc.net/problem/16954) - re
 - [레이저 통신](https://www.acmicpc.net/problem/6087) - re
 - [A → B](https://www.acmicpc.net/problem/16953)
+- [보물섬](https://www.acmicpc.net/problem/2589)
 
 ## Reference
 

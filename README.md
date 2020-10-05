@@ -57,6 +57,7 @@
 ## 백트래킹
 
 - [빵집](https://www.acmicpc.net/problem/3109) - re
+- [매직 스타](https://www.acmicpc.net/problem/3967) - re
 
 ## 브루트 포스
 

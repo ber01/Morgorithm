@@ -71,6 +71,7 @@
 - [멀티버스 Ⅰ](https://www.acmicpc.net/problem/18868)
 - [게리맨더링](https://www.acmicpc.net/problem/17471)
 - [일곱 난쟁이](https://www.acmicpc.net/problem/2309)
+- [2048 (Easy)](https://www.acmicpc.net/problem/12100) - re
 
 ## 소수
 

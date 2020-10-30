@@ -72,6 +72,7 @@
 - [게리맨더링](https://www.acmicpc.net/problem/17471)
 - [일곱 난쟁이](https://www.acmicpc.net/problem/2309)
 - [2048 (Easy)](https://www.acmicpc.net/problem/12100) - re
+- [추억의 2048게임](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWbrg9uabZsDFAWQ)
 
 ## 소수
 
@@ -112,6 +113,8 @@
 - [캐슬 디펜스](https://www.acmicpc.net/problem/17135)
 - [상호의 배틀필드](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LyE7KD2ADFAXc)
 - [미생물 격리](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV597vbqAH0DFAVl)
+- [뱀](https://www.acmicpc.net/problem/3190)
+- [혁진이의 프로그램 검증](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4yLUiKDUoDFAUx)
 
 ## 이분 탐색
 

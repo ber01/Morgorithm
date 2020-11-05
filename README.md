@@ -77,6 +77,7 @@
 - [추억의 2048게임](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWbrg9uabZsDFAWQ)
 - [⚾](https://www.acmicpc.net/problem/17281)
 - [벽돌 깨기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo)
+- [Baaaaaaaaaduk2 (Easy)](https://www.acmicpc.net/problem/16988)
 
 ## 소수
 

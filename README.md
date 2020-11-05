@@ -122,6 +122,7 @@
 - [혁진이의 프로그램 검증](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4yLUiKDUoDFAUx)
 - [탈주범 검거](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpLlKAQ4DFAUq)
 - [톱니바퀴](https://www.acmicpc.net/problem/14891)
+- [낚시왕](https://www.acmicpc.net/problem/17143)
 
 ## 이분 탐색
 

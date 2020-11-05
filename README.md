@@ -62,6 +62,7 @@
 
 - [빵집](https://www.acmicpc.net/problem/3109) - re
 - [매직 스타](https://www.acmicpc.net/problem/3967) - re
+- [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) - re
 
 ## 브루트 포스
 
@@ -106,6 +107,7 @@
 - [암호 만들기](https://www.acmicpc.net/problem/1759)
 - [최적 경로](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15OZ4qAPICFAYD)
 - [요리사](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeUtVakTMDFAVH&)
+- [벌꿀채취](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V4A46AdIDFAWu)
 
 ## 스택
 - [계산기2](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14nnAaAFACFAYD)
@@ -119,6 +121,7 @@
 - [뱀](https://www.acmicpc.net/problem/3190)
 - [혁진이의 프로그램 검증](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4yLUiKDUoDFAUx)
 - [탈주범 검거](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpLlKAQ4DFAUq)
+- [톱니바퀴](https://www.acmicpc.net/problem/14891)
 
 ## 이분 탐색
 
